@@ -1,2 +1,6 @@
 # simpleHelmChart
-Just another chart for nginx with another hello 
+Just another chart for nginx with another hello.
+
+Please run install.sh
+
+
